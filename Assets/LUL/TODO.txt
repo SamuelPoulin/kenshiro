@@ -1,0 +1,8 @@
+Kenshiro CyberSystems
+Without Us... You're Already Dead
+
+LUL
+
+propriété bullet damage 0 - 100 int
+
+health on a box

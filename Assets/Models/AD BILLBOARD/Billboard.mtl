@@ -1,0 +1,103 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 03.10.2017 10:41:59
+
+newmtl Wood
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\wood2.jpg
+	map_Kd H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\wood2.jpg
+
+newmtl Red_Metal
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.6700 0.6700 0.6700
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\metal2.jpg
+	map_Kd H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\metal2.jpg
+
+newmtl Wood_2
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.4700 0.4700 0.4700
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\wood.jpg
+	map_Kd H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\wood.jpg
+	map_bump Map__2_Normal_Bump.tga
+
+newmtl Lamp
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\lite.jpg
+	map_Kd H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\lite.jpg
+
+newmtl Grill
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.1000 0.1000 0.1000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\grill.jpg
+	map_Kd H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\grill.jpg
+	map_d H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\grill_a.jpg
+
+newmtl Lamp_2
+	Ns 59.4111
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.4900 0.4900 0.4900
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\bulb.jpg
+	map_Kd H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\bulb.jpg
+
+newmtl Ads
+	Ns 61.1103
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\ad.jpg
+	map_Kd H:\Cinema 4D\TURBOSQUID_2016\Billboard\tex\ad.jpg
+	map_bump Map__9_Normal_Bump.tga
